@@ -1,11 +1,11 @@
-# data-structure-and-algorithm
+# data-structure-and-algorithm by Suny
 It is a beginner friendly text file to understand different data structure and algorithm stuffs.
 If we want to go from city to city There can be many ways of doing this: by flight, by bus, by train
 and also by cycle. Depending on the availability and convenience we choose the one which suits us.
 Similarly, in computer science there can be multiple algorithms exist for solving the same problem (for example, sorting problem has lot of algorithms like insertion sort, selection sort, quick sort and many more).
 Algorithm analysis helps us determining which of them is efficient in terms of time and space consumed.
 
-# GOAL OF ANALYSIS OF ALGORITHMS?
+# GOAL OF ANALYSIS OF ALGORITHMS BY SUNY?
 The goal of is to compare algorithms (or solutions) mainly in terms of running
 time but also in terms of other factors (e.g., memory, developer's effort etc.)
 It is the process of determining how processing time increases as the size of the problem (input size)
